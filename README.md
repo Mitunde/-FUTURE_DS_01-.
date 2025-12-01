@@ -1,7 +1,9 @@
-# -FUTURE_DS_01
+# FUTURE_DS_01
 Future Interns Task 1 on Superstore Sales Analysis Superstore Sales Analysis Report
 # Introduction 
-The Superstore dataset was analyzed to uncover sales patterns, identify best-performing products, evaluate profitability, and provide insights that can guide business strategy. The analysis combined Excel (for data cleaning and initial exploration) and Power BI (for further transformation and visualization) to present a comprehensive view of the business performance across products, categories, and regions.
+<img width="1346" height="743" alt="Screenshot 2025-11-20 125409" src="https://github.com/user-attachments/assets/c951c68e-2bc3-45c6-8a64-f67431f2d5e3" />
+
+The Superstore dataset was analyzed to uncover sales patterns, identify best-performing products, evaluate profitability, and provide insights that can guide business strategy. The analysis combined Excel (for data cleaning ) and Power BI (for further transformation and visualization) to present a comprehensive view of the business performance across products, categories, and regions.
 
 The objective of this project was to answer key stakeholder questions, highlight trends, and provide actionable recommendations to improve revenue and profitability.
 
